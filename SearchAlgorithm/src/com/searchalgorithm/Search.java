@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.searchalgorithm;
 
 public class Search {
@@ -22,7 +19,7 @@ public class Search {
 		int[] list = {5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100};
 		//int search = 3;
 		
-		linearSearch(list, 63);
+		linearSearch(list, 55);
 	}
 }
 
